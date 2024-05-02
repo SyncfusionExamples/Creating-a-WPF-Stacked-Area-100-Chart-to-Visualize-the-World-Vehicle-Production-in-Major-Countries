@@ -24,6 +24,7 @@ This property governs the visibility of the axis line itself. Users can choose t
 
 ![WPFStacked100AreaChartOutput](https://github.com/SyncfusionExamples/Creating-a-WPF-Stacked-Area-100-Chart-to-Visualize-the-World-Vehicle-Production-in-Major-Countries/assets/105482474/86231566-006d-4830-a4f7-1c333afb3004)
 
+For a step-by-step procedure, refer to the [WPF Stacked100 Area Chart for World Vehicle Production in Major Countries blog](https://www.syncfusion.com/blogs/post/wpf-100-stacked-area-chart-vehicle).
 
 
 
